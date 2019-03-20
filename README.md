@@ -1,2 +1,2 @@
-#original source is https://github.com/AlexeyAB/darknet 
-app dir is updated
+#Reference https://github.com/AlexeyAB/darknet 
+
